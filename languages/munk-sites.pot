@@ -1,0 +1,857 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-19 15:22+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: classess/class-ajax.php:430
+#, php-format
+msgid "%d post (including CPT)"
+msgid_plural "%d posts (including CPTs)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-ajax.php:431
+#, php-format
+msgid "%d media item"
+msgid_plural "%d media items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-ajax.php:432
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-ajax.php:433
+#, php-format
+msgid "%d term"
+msgid_plural "%d terms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-ajax.php:434
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-sites.php:62 classess/class-sites.php:67
+msgid "Munk Sites"
+msgstr ""
+
+#: classess/class-sites.php:105
+msgctxt "plugin-name"
+msgid "Munk Pro"
+msgstr ""
+
+#: classess/class-sites.php:106
+msgctxt "plugin-name"
+msgid "Elementor"
+msgstr ""
+
+#: classess/class-sites.php:107
+msgctxt "plugin-name"
+msgid "Elementor Pro"
+msgstr ""
+
+#: classess/class-sites.php:108
+msgctxt "plugin-name"
+msgid "Beaver Builder"
+msgstr ""
+
+#: classess/class-sites.php:109
+msgctxt "plugin-name"
+msgid "Contact Form 7"
+msgstr ""
+
+#: classess/class-sites.php:110
+msgctxt "plugin-name"
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: classess/class-sites.php:111
+msgctxt "plugin-name"
+msgid "JetPack"
+msgstr ""
+
+#: classess/class-sites.php:112
+msgctxt "plugin-name"
+msgid "Polylang"
+msgstr ""
+
+#: classess/class-sites.php:113
+msgctxt "plugin-name"
+msgid "WooCommerce"
+msgstr ""
+
+#: classess/class-sites.php:149
+msgid "Try Again"
+msgstr ""
+
+#: classess/class-sites.php:150
+msgid "Pro only"
+msgstr ""
+
+#: classess/class-tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: classess/class-tgm.php:335 templates/modal.php:10 templates/modal.php:43
+#: templates/modal.php:117
+msgid "Install Plugins"
+msgstr ""
+
+#: classess/class-tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classess/class-tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: classess/class-tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: classess/class-tgm.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:348
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:363
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:368
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: classess/class-tgm.php:384 classess/class-tgm.php:911
+#: classess/class-tgm.php:2617 classess/class-tgm.php:3664
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: classess/class-tgm.php:385 classess/class-tgm.php:3243
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: classess/class-tgm.php:386 classess/class-tgm.php:3036
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: classess/class-tgm.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: classess/class-tgm.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: classess/class-tgm.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: classess/class-tgm.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: classess/class-tgm.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: classess/class-tgm.php:598
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: classess/class-tgm.php:599
+msgid "Update Required"
+msgstr ""
+
+#: classess/class-tgm.php:716
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: classess/class-tgm.php:1018
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: classess/class-tgm.php:1018 classess/class-tgm.php:1021
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: classess/class-tgm.php:1021
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: classess/class-tgm.php:1205 classess/class-tgm.php:3032
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: classess/class-tgm.php:2066
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: classess/class-tgm.php:2357
+msgid "Required"
+msgstr ""
+
+#: classess/class-tgm.php:2360
+msgid "Recommended"
+msgstr ""
+
+#: classess/class-tgm.php:2376
+msgid "WordPress Repository"
+msgstr ""
+
+#: classess/class-tgm.php:2379
+msgid "External Source"
+msgstr ""
+
+#: classess/class-tgm.php:2382
+msgid "Pre-Packaged"
+msgstr ""
+
+#: classess/class-tgm.php:2399
+msgid "Not Installed"
+msgstr ""
+
+#: classess/class-tgm.php:2403
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: classess/class-tgm.php:2405
+msgid "Active"
+msgstr ""
+
+#: classess/class-tgm.php:2411
+msgid "Required Update not Available"
+msgstr ""
+
+#: classess/class-tgm.php:2414
+msgid "Requires Update"
+msgstr ""
+
+#: classess/class-tgm.php:2417
+msgid "Update recommended"
+msgstr ""
+
+#: classess/class-tgm.php:2426
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: classess/class-tgm.php:2472
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:2476
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:2480
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:2484
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classess/class-tgm.php:2566
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: classess/class-tgm.php:2574
+msgid "Installed version:"
+msgstr ""
+
+#: classess/class-tgm.php:2582
+msgid "Minimum required version:"
+msgstr ""
+
+#: classess/class-tgm.php:2594
+msgid "Available version:"
+msgstr ""
+
+#: classess/class-tgm.php:2617
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: classess/class-tgm.php:2631
+msgid "Plugin"
+msgstr ""
+
+#: classess/class-tgm.php:2632
+msgid "Source"
+msgstr ""
+
+#: classess/class-tgm.php:2633
+msgid "Type"
+msgstr ""
+
+#: classess/class-tgm.php:2637
+msgid "Version"
+msgstr ""
+
+#: classess/class-tgm.php:2638
+msgid "Status"
+msgstr ""
+
+#: classess/class-tgm.php:2687
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: classess/class-tgm.php:2692
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: classess/class-tgm.php:2698
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: classess/class-tgm.php:2768
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: classess/class-tgm.php:2801
+msgid "Install"
+msgstr ""
+
+#: classess/class-tgm.php:2807
+msgid "Update"
+msgstr ""
+
+#: classess/class-tgm.php:2810
+msgid "Activate"
+msgstr ""
+
+#: classess/class-tgm.php:2841
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: classess/class-tgm.php:2843
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: classess/class-tgm.php:2884
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: classess/class-tgm.php:2886
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: classess/class-tgm.php:2992
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: classess/class-tgm.php:3018
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: classess/class-tgm.php:3242
+msgid "Plugin activation failed."
+msgstr ""
+
+#: classess/class-tgm.php:3582
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classess/class-tgm.php:3585
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: classess/class-tgm.php:3587
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: classess/class-tgm.php:3591
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: classess/class-tgm.php:3593
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: classess/class-tgm.php:3593 classess/class-tgm.php:3601
+msgid "Show Details"
+msgstr ""
+
+#: classess/class-tgm.php:3593 classess/class-tgm.php:3601
+msgid "Hide Details"
+msgstr ""
+
+#: classess/class-tgm.php:3594
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: classess/class-tgm.php:3596
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classess/class-tgm.php:3599
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: classess/class-tgm.php:3601
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: classess/class-tgm.php:3602
+msgid "All installations have been completed."
+msgstr ""
+
+#: classess/class-tgm.php:3604
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: importer/class-wxr-import-ui.php:71
+msgid "Could not cache information on the import."
+msgstr ""
+
+#: importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: importer/class-wxr-importer.php:166 importer/class-wxr-importer.php:282
+#: importer/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/class-wxr-importer.php:567
+msgid "Invalid author mapping"
+msgstr ""
+
+#: importer/class-wxr-importer.php:668
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: importer/class-wxr-importer.php:756
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: importer/class-wxr-importer.php:766
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: importer/class-wxr-importer.php:851
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: importer/class-wxr-importer.php:876
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: importer/class-wxr-importer.php:908 importer/class-wxr-importer.php:1746
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: importer/class-wxr-importer.php:913
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1057
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1552
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: importer/class-wxr-importer.php:1573
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: importer/class-wxr-importer.php:1577
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1722
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1751
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1804
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1817
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1822
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1828
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1850
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1863
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1868
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1882
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1887
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1913
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: importer/class-wxr-importer.php:1924
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1969
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1974
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: importer/class-wxr-importer.php:1996
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:2000
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: importer/class-wxr-importer.php:2014
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: importer/class-wxr-importer.php:2018
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: importer/class-wxr-importer.php:2035
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: templates/dashboard.php:6
+msgid "All"
+msgstr ""
+
+#: templates/dashboard.php:9
+msgid "Search Themes"
+msgstr ""
+
+#: templates/dashboard.php:9
+msgid "Search sites..."
+msgstr ""
+
+#: templates/dashboard.php:21
+msgid "Pro"
+msgstr ""
+
+#: templates/dashboard.php:26 templates/modal.php:131
+msgid "Preview"
+msgstr ""
+
+#: templates/dashboard.php:27
+msgid "Details"
+msgstr ""
+
+#: templates/dashboard.php:38
+msgid "No sites found. Try a different search."
+msgstr ""
+
+#: templates/modal.php:4
+msgid "Back to site library"
+msgstr ""
+
+#: templates/modal.php:9
+msgid "Import Overview"
+msgstr ""
+
+#: templates/modal.php:11 templates/modal.php:63 templates/modal.php:118
+msgid "Import Content"
+msgstr ""
+
+#: templates/modal.php:12 templates/modal.php:83 templates/modal.php:119
+msgid "Import Options"
+msgstr ""
+
+#: templates/modal.php:25
+msgid "Hi! Welcome"
+msgstr ""
+
+#: templates/modal.php:26
+msgid ""
+"Thank you for using Munk Sites. <br />Click on the \"Start Import\" button "
+"below to begin importing the designs."
+msgstr ""
+
+#: templates/modal.php:28
+msgid "Import placeholder image."
+msgstr ""
+
+#: templates/modal.php:31
+msgid "Oops! Could not download demo content xml and config files."
+msgstr ""
+
+#: templates/modal.php:45
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: templates/modal.php:50
+msgid "The following plugins need to be installed and activated manually."
+msgstr ""
+
+#: templates/modal.php:64
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: templates/modal.php:85
+msgid "This step will import the theme options, menus and widgets"
+msgstr ""
+
+#: templates/modal.php:88
+msgid "Customize Options"
+msgstr ""
+
+#: templates/modal.php:89
+msgid "Widgets"
+msgstr ""
+
+#: templates/modal.php:90
+msgid "Options"
+msgstr ""
+
+#: templates/modal.php:102
+msgid "All done. Have fun!"
+msgstr ""
+
+#: templates/modal.php:103
+msgid ""
+"Your theme has been all set up. Enjoy your new theme by the WordPress team."
+msgstr ""
+
+#: templates/modal.php:105
+msgid "Explore WordPress"
+msgstr ""
+
+#: templates/modal.php:106
+msgid "Get Theme Support"
+msgstr ""
+
+#: templates/modal.php:107
+msgid "Start Customizing"
+msgstr ""
+
+#: templates/modal.php:114
+msgid "Skip"
+msgstr ""
+
+#: templates/modal.php:116
+msgid "Start Import"
+msgstr ""
+
+#: templates/modal.php:120
+msgid "View Your Website"
+msgstr ""
+
+#: templates/preview.php:12
+msgid "Import"
+msgstr ""
+
+#: templates/preview.php:13
+msgid "Close preview"
+msgstr ""
+
+#: templates/preview.php:15
+msgid "Previous demo"
+msgstr ""
+
+#: templates/preview.php:17
+msgid "Desktop view"
+msgstr ""
+
+#: templates/preview.php:18
+msgid "Tablet view"
+msgstr ""
+
+#: templates/preview.php:19
+msgid "Phone view"
+msgstr ""
